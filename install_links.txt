@@ -1,0 +1,6 @@
+links:
+https://adamtheautomator.com/docker-compose-tutorial/
+https://docs.docker.com/engine/install/centos/
+https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+https://kind.sigs.k8s.io/docs/user/quick-start/
+https://helm.sh/docs/intro/install/
